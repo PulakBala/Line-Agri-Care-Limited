@@ -131,7 +131,10 @@ include('home_slider.php');
     .product-card h1, .product-card .product-name {
         text-align: center; /* Centers the text */
     }
+<<<<<<< HEAD
    
+=======
+>>>>>>> 4ac55be9c2dbcbec4b5ee628819018021fb2b2cf
 </style>
 
 <section class="latest-products">
@@ -169,6 +172,7 @@ include('home_slider.php');
     </div>
 </section>
 
+<<<<<<< HEAD
 <section class="contact-section py-5">
   <div class="container">
     <div class="row gy-4">
@@ -221,3 +225,34 @@ include('home_slider.php');
 
 
 <?php include('footer1.php')?>
+=======
+<section class="contact-section">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4">
+                <div class="product-card">
+                    <img src="assets/img/location.png" alt="Location" class="card-image">
+                    <h1>Where we are!!</h1>
+                    <div class="product-name">Xpart Agricare Import & Export Ltd. has established a state-of-art factory in Ishwardi for the production, manufacturing as well as repacking of products. To offer an all-inclusive product services focused on best customer care, Xpart Agricare Import & Export Ltd. has stationed 10 (Ten) sales service centers</div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="product-card">
+                    <img src="assets/img/fisheries.png" alt="Fisheries" class="card-image">
+                    <h1>XPART Fisheries</h1>
+                    <div class="product-name">Aquatic animals provide a major source of animal protein in the Bangladeshi diet. Xpart Agricare Import & Export Ltd. is a pioneering company working with Aquaculture and Fisheries. We strive to produce the highest quality feed by incorporating latest</div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="product-card">
+                    <img src="assets/img/future.png" alt="Future" class="card-image">
+                    <h1>Feed Healthy, Feed Future</h1>
+                    <div class="product-name">Xpart Agricare Import & Export Ltd. has established a state-of-art factory in Ishwardi for the production, manufacturing as well as repacking of products. To offer an all-inclusive product services focused on best customer care, Xpart Agricare Import & Export Ltd. has stationed 10 (Ten) sales service centers</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+>>>>>>> 4ac55be9c2dbcbec4b5ee628819018021fb2b2cf
